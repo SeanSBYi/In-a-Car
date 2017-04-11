@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarAi.CSharp.Plugins", "CarAi.CSharp.Plugins.csproj", "{FA3BC9BE-A83C-63F8-F6AC-0883073D22AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarAi.CSharp", "CarAi.CSharp.csproj", "{6AC36203-6B97-461E-73DF-B689BFD39D36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA3BC9BE-A83C-63F8-F6AC-0883073D22AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3BC9BE-A83C-63F8-F6AC-0883073D22AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3BC9BE-A83C-63F8-F6AC-0883073D22AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3BC9BE-A83C-63F8-F6AC-0883073D22AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AC36203-6B97-461E-73DF-B689BFD39D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC36203-6B97-461E-73DF-B689BFD39D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC36203-6B97-461E-73DF-B689BFD39D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC36203-6B97-461E-73DF-B689BFD39D36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
