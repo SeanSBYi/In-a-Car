@@ -81,6 +81,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\CameraDarkenController.cs" />
+    <Compile Include="Assets\Scripts\CameraShakeController.cs" />
     <Compile Include="Assets\Scripts\CarEngine.cs" />
     <Compile Include="Assets\Scripts\Path.cs" />
     <Compile Include="Assets\_Import\Cartoon SportCar B01\Standard Assets\script\AbstractTargetFollower.cs" />
